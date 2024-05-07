@@ -8,4 +8,9 @@
     "source.fixAll.eslint": "explicit",
     "source.organizeImports": "never"
   },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#173406",
+    "titleBar.activeBackground": "#204909",
+    "titleBar.activeForeground": "#F5FDEF"
+  },
 }
